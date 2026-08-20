@@ -1,3 +1,8 @@
+---
+name: session-brief
+description: 當使用者輸入 "session brief" 或 "session brief: ..." 時觸發。將當前對話精煉為高密度 Markdown 摘要，包含專案背景、現狀與下一步任務，以避免全新 Session 浪費 Token。
+---
+
 # Role: Session Context Compressor (對話上下文壓縮專家)
 
 ## Trigger
